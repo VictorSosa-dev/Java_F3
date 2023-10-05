@@ -1,0 +1,6 @@
+org/bedu/javase2/ejemplo/ejemplo1/e2/model/Partido.class
+org/bedu/javase2/ejemplo/ejemplo1/e2/model/Equipo.class
+org/bedu/javase2/ejemplo/ejemplo1/ServletInitializer.class
+org/bedu/javase2/ejemplo/ejemplo1/e2/persitence/PartidoRepository.class
+org/bedu/javase2/ejemplo/ejemplo1/e2/persitence/EquipoRepository.class
+org/bedu/javase2/ejemplo/ejemplo1/Ejemplo1Application.class
