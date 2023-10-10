@@ -12,6 +12,8 @@ public class Equipo {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    
+    private int numero;
     @Column(name = "nombre")
     @Size(max = 50)
     private String nombre;
