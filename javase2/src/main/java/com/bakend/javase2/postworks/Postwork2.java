@@ -69,7 +69,6 @@ public class Postwork2 {
             curso3.setCalificaciones(curso3.getCalificaciones());
             curso4.getCalificaciones().put(new Estudiante(i,"Estudiante " + i), (int) (Math.random() * 10));
             curso4.setCalificaciones(curso4.getCalificaciones());
-
         }
 
         // ejecutamos los hilos

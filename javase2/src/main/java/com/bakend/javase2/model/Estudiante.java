@@ -19,6 +19,10 @@ public class Estudiante {
         this.nombreCompleto = nombreCompleto;
     }
 
+    public Estudiante() {
+
+    }
+
     public int getId() {
         return id;
     }
