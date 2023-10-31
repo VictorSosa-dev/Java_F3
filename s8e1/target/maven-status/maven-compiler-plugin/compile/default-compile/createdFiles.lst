@@ -1,0 +1,6 @@
+com/example/demo/models/Casa.class
+com/example/demo/DemoApplication.class
+com/example/demo/controllers/CasaController.class
+com/example/demo/serivice/CasaServiceImpl.class
+com/example/demo/serivice/CasaSerivice.class
+com/example/demo/repository/CasaRepository.class
